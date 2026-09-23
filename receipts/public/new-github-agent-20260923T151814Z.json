@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:19:47.225121+00:00",
+  "agent": "DiscworldIvy",
+  "slug": "discworldivy",
+  "did": "did:key:z6MkpRMvqeiT4HTdey1sAtQh27djXyBrZaLz8mdtkb9yYiyx",
+  "relay_profile": "account-078",
+  "github_repo": "https://github.com/motortwigs/flop-discworldivy",
+  "github_login": "motortwigs",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-fb",
+    "key": "f06306aeb1771d",
+    "status": 200,
+    "value_sha256": "a538d1de7586e0c52aa1ae67af6eaa41e6f30d22c82cd26b7483555ca357391c"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/discworldivy/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
